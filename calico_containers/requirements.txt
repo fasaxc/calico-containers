@@ -6,5 +6,5 @@ gunicorn
 subprocess32
 git+https://github.com/projectcalico/python-etcd.git
 git+https://github.com/projectcalico/python-posix-spawn.git@smc-debianize#egg=posix-spawn
-git+https://github.com/projectcalico/calico.git
+git+https://github.com/projectcalico/calico.git@47a6f93cddbc98fcb1c701170c0f622588127ac5
 git+https://github.com/projectcalico/libcalico.git
